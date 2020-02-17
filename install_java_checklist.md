@@ -49,4 +49,59 @@ This checklist contains instructions for Windows and Mac.
 
 If it runs successfully then you have Java and Maven Installed on Mac.
 
----          
+---     
+
+## Install IntelliJ Community Edition on Mac 
+
+You can install IntelliJ using Homebrew as well by typing:
+
+*  `brew cask install intellij-idea-ce`
+
+Or you can install it like a normal Mac application using the instructions below.
+
+*  Install IntelliJ IDE Community Edition,
+    * visit the web site https://www.jetbrains.com/idea/ 
+    * download and install the Community Edition
+    
+* Open the 'start-using-java' project in IntelliJ and run the test from the IDE to ensure IntelliJ and JDK and Maven are all working together.    
+
+---
+     
+Generic Links:
+==============
+
++ Download Java SDK From
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+  - 13  https://www.oracle.com/java/technologies/javase-jdk13-downloads.html
+  - 11  https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
+  - 1.8 https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
+
++ Download production-ready distribution of the Open Java Development Kit (OpenJDK). 
+https://aws.amazon.com/corretto/ Amazon Corretto is certified as compatible with the Java SE standard and is used internally at Amazon for many production services. 
+    * https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
+
++ Download Maven From
+    * http://maven.apache.org/download.cgi
+
+---
+
++ sample JUnit test project from
+    * https://github.com/ramgsuri/start-using-java.git
+
++ Download IntelliJ from
+    * http://www.jetbrains.com/idea/download/
+
++ Mac HomeBrew and Cask
+    * http://brew.sh
+    * https://caskroom.github.io/
+
+---
+
++ How to install Java on Mac
+    * http://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac
+    
++ How do uninstall Java on Mac
+    * https://www.java.com/en/download/help/mac_uninstall_java.xml
+    * http://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html
+
+---     
