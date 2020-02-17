@@ -1,8 +1,10 @@
+package com.tw.workshop;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class MyFirstTest {
+
+public class MyFirstApplicationTest {
 
     @Test
     public void checkThatJavaMavenAndJUnitAreInstalled(){
