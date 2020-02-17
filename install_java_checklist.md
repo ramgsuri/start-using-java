@@ -3,8 +3,8 @@
 *Basic steps:*
 
 - Install Java and supporting tools
-    - install Java JDK
-    - install Maven
+    - install Java JDK ( Preferred version is either 11 or 8 )
+    - install Maven ( Preferred version should be  >= 3.6.0 ) 
     - check Java and Maven work by running a sample test
 - Install IntelliJ
     - check IntelliJ works by running the sample test
