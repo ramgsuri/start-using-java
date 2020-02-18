@@ -48,5 +48,5 @@ Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 Read the [Java Install Checklist](https://github.com/ramgsuri/start-using-java/blob/master/install_java_checklist.md)
  for more details.
 
-Author: Ram G Suri
-* (http:/ramgsuri.me)
+Author: Ram G Suri 
+* [https:/ramgsuri.github.io](https://ramgsuri.github.io)
