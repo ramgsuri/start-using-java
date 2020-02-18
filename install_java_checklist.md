@@ -3,11 +3,11 @@
 *Basic steps:*
 
 - Install Java and supporting tools
-    - install Java JDK ( Preferred version is either 11 or 8 )
-    - install Maven ( Preferred version should be  >= 3.6.0 ) 
-    - check Java and Maven work by running a sample test
+    - Install Java JDK ( Preferred version is either 11 or 8 )
+    - Install Maven ( Preferred version should be  >= 3.6.0 ) 
+    - Check Java and Maven work by running a sample test
 - Install IntelliJ
-    - check IntelliJ works by running the sample test
+    - Check IntelliJ works by running the sample test
         
 This checklist contains instructions for Windows and Mac.
 
@@ -25,7 +25,7 @@ This checklist contains instructions for Windows and Mac.
 # For Mac Install Java checklist
 ## Use HomeBrew to install Java JDK and Maven
 
-*  install homebrew from http://brew.sh/
+*  Install homebrew from http://brew.sh/ 
 *  Run this command : `brew update` 
 *  Install jdk with : `brew cask install java`
 *  Install maven with : `brew install maven`
@@ -36,7 +36,13 @@ This checklist contains instructions for Windows and Mac.
     * For Mac type : 
         * `echo $JAVA_HOME`
         * `echo $PATH`
+        
+    * check your vi ~/.bash_profile if environment variables are set properly 
+      ![JAVA_HOME](./img/Java_Home.png) 
+      
+      ![PATH](./img/Export_Path.png)  
 
+          
 ---
 
 * Download JUnit Test Project (this has a simple pom.xml and a basic test to run)
