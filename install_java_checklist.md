@@ -11,7 +11,7 @@
         
 This checklist contains instructions for Windows and Mac.
 
-## Install Java Pre-requisites
+## Check what you need to install
 
 *  Check what you need to install by typing console commands : 
     *  javac -version
