@@ -38,6 +38,7 @@ public class NandiniCalculator {
         System.out.println("calculator Name is " +args[0]);
         System.out.println("calculator Name is " +args[1]);// to take input from user use the edit config
         //for loop also can be used to print the above the values
+        // for the testing of git commit
         for (int i =0; i<args.length; i++) {
             System.out.println("hello");
         }

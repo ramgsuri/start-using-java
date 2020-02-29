@@ -1,12 +1,16 @@
 package com.tw.workshop;
 
+import java.util.Date;
+
 public class MyCalc{
     private int input1;
     private int intput2;
     private String calOperator;
+    private Date date;
+
 
     public MyCalc() {
-
+// My calculator
     }
 
     public MyCalc (int var1 , int var2 , String operation) {
