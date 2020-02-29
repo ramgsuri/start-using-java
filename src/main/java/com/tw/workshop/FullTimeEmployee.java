@@ -1,4 +1,4 @@
 package com.tw.workshop;
 
-public class FullTimeEmployee {
+public class FullTimeEmployee extends EmployeeNandini{
 }

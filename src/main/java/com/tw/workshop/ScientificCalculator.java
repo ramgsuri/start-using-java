@@ -1,5 +1,5 @@
 package com.tw.workshop;
 
-public class SceintificCalculator {
+public class ScientificCalculator {
 
 }

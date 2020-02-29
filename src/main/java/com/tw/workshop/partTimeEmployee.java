@@ -1,4 +1,15 @@
 package com.tw.workshop;
 
-public class partTimeEmployee {
+import java.util.Date;
+
+public class partTimeEmployee extends EmployeeNandini{
+    private String employeeName;
+    private Date joiningDate;
+
+    public partTimeEmployee(String employeeName, Date joiningDate){
+
+        super(employeeName,joiningDate);
+    }
+
+
 }

@@ -1,4 +1,20 @@
 package com.tw.workshop;
 
-public class Form16Report {
+import Interfaces.Reports;
+
+public class Form16Report implements Reports {
+
+
+    @Override
+    public void generateReports() {
+        System.out.println("inside Form16 GenerateReport");
+    }
+
+    @Override
+    public void printReport() {
+        System.out.println("inside Form16 PrintReport");
+    }
+
+
+
 }
